@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning GitHub and DevOps technologies
+- 🔭 I’m currently interested in Cybersecurity
 <!--
 **Ma4kaigrisho/Ma4kaigrisho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
